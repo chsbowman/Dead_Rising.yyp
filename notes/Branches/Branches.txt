@@ -1,0 +1,5 @@
+Using GitHub as the version control system, all class members were provided
+a separate branch to be assigned for creation of a new sprite.
+
+After sprite creation, need to commit back to creator for possible master branch
+merging.
