@@ -1,10 +1,20 @@
 {
   "resources": [
+    {"id":{"name":"Sign","path":"sprites/Sign/Sign.yy",},"order":0,},
+    {"id":{"name":"DeadBush","path":"sprites/DeadBush/DeadBush.yy",},"order":9,},
+    {"id":{"name":"Crate","path":"sprites/Crate/Crate.yy",},"order":8,},
     {"id":{"name":"spr_disciple_rise","path":"sprites/spr_disciple_rise/spr_disciple_rise.yy",},"order":1,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"spr_shadow_rise","path":"sprites/spr_shadow_rise/spr_shadow_rise.yy",},"order":5,},
     {"id":{"name":"spr_disciple_right","path":"sprites/spr_disciple_right/spr_disciple_right.yy",},"order":7,},
+    {"id":{"name":"TombStone__1_","path":"sprites/TombStone__1_/TombStone__1_.yy",},"order":2,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
+    {"id":{"name":"Bush__2_","path":"sprites/Bush__2_/Bush__2_.yy",},"order":7,},
+    {"id":{"name":"Skeleton","path":"sprites/Skeleton/Skeleton.yy",},"order":1,},
+    {"id":{"name":"Tree","path":"sprites/Tree/Tree.yy",},"order":4,},
+    {"id":{"name":"ArrowSign","path":"sprites/ArrowSign/ArrowSign.yy",},"order":5,},
+    {"id":{"name":"TombStone__2_","path":"sprites/TombStone__2_/TombStone__2_.yy",},"order":3,},
+    {"id":{"name":"Bush__1_","path":"sprites/Bush__1_/Bush__1_.yy",},"order":6,},
     {"id":{"name":"Branches","path":"notes/Branches/Branches.yy",},"order":0,},
     {"id":{"name":"obj_shadow","path":"objects/obj_shadow/obj_shadow.yy",},"order":3,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
@@ -40,6 +50,7 @@
     {"folderPath":"folders/Extensions.yy","order":23,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sequences.yy","order":1,"resourceVersion":"1.0","name":"Sequences","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Animation Curves.yy","order":1,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/gunther165.yy","order":8,"resourceVersion":"1.0","name":"gunther165","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
