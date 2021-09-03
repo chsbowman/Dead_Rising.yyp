@@ -5,6 +5,7 @@
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"spr_shadow_rise","path":"sprites/spr_shadow_rise/spr_shadow_rise.yy",},"order":5,},
     {"id":{"name":"spr_disciple_right","path":"sprites/spr_disciple_right/spr_disciple_right.yy",},"order":7,},
+    {"id":{"name":"spr_spectre_armor","path":"sprites/spr_spectre_armor/spr_spectre_armor.yy",},"order":10,},
     {"id":{"name":"spr_grave","path":"sprites/spr_grave/spr_grave.yy",},"order":9,},
     {"id":{"name":"spr_tombStone__1","path":"sprites/spr_tombStone__1/spr_tombStone__1.yy",},"order":8,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
