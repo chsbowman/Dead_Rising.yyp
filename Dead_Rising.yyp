@@ -1,6 +1,7 @@
 {
   "resources": [
-    {"id":{"name":"spr_undertaker","path":"sprites/spr_undertaker/spr_undertaker.yy",},"order":10,},
+    {"id":{"name":"spr_undertaker_GabhenOD","path":"sprites/spr_undertaker_GabhenOD/spr_undertaker_GabhenOD.yy",},"order":10,},
+    {"id":{"name":"spr_victoryScreen_GabhenOD","path":"sprites/spr_victoryScreen_GabhenOD/spr_victoryScreen_GabhenOD.yy",},"order":11,},
     {"id":{"name":"spr_disciple_rise","path":"sprites/spr_disciple_rise/spr_disciple_rise.yy",},"order":1,},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
