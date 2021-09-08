@@ -10,8 +10,10 @@
     {"id":{"name":"spr_grave","path":"sprites/spr_grave/spr_grave.yy",},"order":9,},
     {"id":{"name":"spr_tombStone__1","path":"sprites/spr_tombStone__1/spr_tombStone__1.yy",},"order":8,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
+    {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},"order":11,},
     {"id":{"name":"Branches","path":"notes/Branches/Branches.yy",},"order":0,},
     {"id":{"name":"obj_shadow","path":"objects/obj_shadow/obj_shadow.yy",},"order":3,},
+    {"id":{"name":"wizard","path":"sprites/wizard/wizard.yy",},"order":12,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
   ],
   "Options": [
