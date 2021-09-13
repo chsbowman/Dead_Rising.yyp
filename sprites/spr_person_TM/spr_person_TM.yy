@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person/spr_person.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person/spr_person.yy",},"LayerId":{"name":"286ccc28-e233-4bc2-911b-336bea665136","path":"sprites/spr_person/spr_person.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},"resourceVersion":"1.0","name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person_TM/spr_person_TM.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person_TM/spr_person_TM.yy",},"LayerId":{"name":"286ccc28-e233-4bc2-911b-336bea665136","path":"sprites/spr_person_TM/spr_person_TM.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_person_TM","path":"sprites/spr_person_TM/spr_person_TM.yy",},"resourceVersion":"1.0","name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},
+    "spriteId": {"name":"spr_person_TM","path":"sprites/spr_person_TM/spr_person_TM.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"3c10378d-b0a0-468b-9aef-65c36a19c7a2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person/spr_person.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"3c10378d-b0a0-468b-9aef-65c36a19c7a2","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d36ec444-5b8d-4de8-ad21-c0bfceb5a1cf","path":"sprites/spr_person_TM/spr_person_TM.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},
+    "parent": {"name":"spr_person_TM","path":"sprites/spr_person_TM/spr_person_TM.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_person",
+    "name": "spr_person_TM",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_person",
+  "name": "spr_person_TM",
   "tags": [],
   "resourceType": "GMSprite",
 }
