@@ -9,7 +9,7 @@
     {"id":{"name":"spr_grave","path":"sprites/spr_grave/spr_grave.yy",},"order":5,},
     {"id":{"name":"spr_tombStone__1","path":"sprites/spr_tombStone__1/spr_tombStone__1.yy",},"order":4,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
-    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},"order":7,},
+    {"id":{"name":"spr_ghost_armor","path":"sprites/spr_ghost_armor/spr_ghost_armor.yy",},"order":7,},
     {"id":{"name":"Branches","path":"notes/Branches/Branches.yy",},"order":0,},
     {"id":{"name":"obj_shadow","path":"objects/obj_shadow/obj_shadow.yy",},"order":3,},
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":1,},
@@ -62,7 +62,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.577",
   },
   "resourceVersion": "1.4",
   "name": "Dead_Rising",
