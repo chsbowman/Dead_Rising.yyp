@@ -2,8 +2,10 @@
   "resources": [
     {"id":{"name":"spr_undertaker_GabhenOD","path":"sprites/spr_undertaker_GabhenOD/spr_undertaker_GabhenOD.yy",},"order":10,},
     {"id":{"name":"spr_victoryScreen_GabhenOD","path":"sprites/spr_victoryScreen_GabhenOD/spr_victoryScreen_GabhenOD.yy",},"order":11,},
+    {"id":{"name":"bounceOff_edge","path":"scripts/bounceOff_edge/bounceOff_edge.yy",},"order":0,},
     {"id":{"name":"spr_disciple_rise","path":"sprites/spr_disciple_rise/spr_disciple_rise.yy",},"order":1,},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
+    {"id":{"name":"spr_spectre_armor","path":"sprites/spr_spectre_armor/spr_spectre_armor.yy",},"order":10,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"spr_ball_ZP","path":"sprites/spr_ball_ZP/spr_ball_ZP.yy",},"order":13,},
     {"id":{"name":"spr_shadow_rise","path":"sprites/spr_shadow_rise/spr_shadow_rise.yy",},"order":5,},
@@ -11,6 +13,7 @@
     {"id":{"name":"spr_slime_GA","path":"sprites/spr_slime_GA/spr_slime_GA.yy",},"order":14,},
     {"id":{"name":"spr_disciple_right","path":"sprites/spr_disciple_right/spr_disciple_right.yy",},"order":7,},
     {"id":{"name":"spr_grave","path":"sprites/spr_grave/spr_grave.yy",},"order":9,},
+    {"id":{"name":"o_undertaker","path":"objects/o_undertaker/o_undertaker.yy",},"order":4,},
     {"id":{"name":"spr_tombStone__1","path":"sprites/spr_tombStone__1/spr_tombStone__1.yy",},"order":8,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
     {"id":{"name":"spr_zombie_GA","path":"sprites/spr_zombie_GA/spr_zombie_GA.yy",},"order":15,},
