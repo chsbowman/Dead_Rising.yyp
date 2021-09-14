@@ -4,6 +4,7 @@
     {"id":{"name":"spr_victoryScreen_GabhenOD","path":"sprites/spr_victoryScreen_GabhenOD/spr_victoryScreen_GabhenOD.yy",},"order":11,},
     {"id":{"name":"spr_disciple_rise","path":"sprites/spr_disciple_rise/spr_disciple_rise.yy",},"order":1,},
     {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
+    {"id":{"name":"spr_spectre_armor","path":"sprites/spr_spectre_armor/spr_spectre_armor.yy",},"order":10,},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":3,},
     {"id":{"name":"spr_shadow_rise","path":"sprites/spr_shadow_rise/spr_shadow_rise.yy",},"order":5,},
     {"id":{"name":"spr_person_TM","path":"sprites/spr_person_TM/spr_person_TM.yy",},"order":13,},
