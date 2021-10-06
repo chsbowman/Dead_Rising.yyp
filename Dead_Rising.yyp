@@ -21,6 +21,7 @@
     {"id":{"name":"spr_tombStone__1","path":"sprites/spr_tombStone__1/spr_tombStone__1.yy",},"order":8,},
     {"id":{"name":"obj_disciple","path":"objects/obj_disciple/obj_disciple.yy",},"order":1,},
     {"id":{"name":"spr_zombie_GA","path":"sprites/spr_zombie_GA/spr_zombie_GA.yy",},"order":15,},
+    {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},"order":26,},
     {"id":{"name":"spr_ghost_TM","path":"sprites/spr_ghost_TM/spr_ghost_TM.yy",},"order":11,},
     {"id":{"name":"Branches","path":"notes/Branches/Branches.yy",},"order":0,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":16,},
